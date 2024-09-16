@@ -1,5 +1,5 @@
 # Hello, world, it's NeonNarwhal!
-### As a second-year student at Technological University in Korolev, Russia, I am a dedicated machine learning engineer and backend developer with a strong proficiency in Python and I'm good at ML, C++, Linux, Git, SQL and API. I'm interested in anything related to Artificial Intelligence and Development, I strive to continuously expand my knowledge and skills in the field
+### As a third-year student at Technological University in Korolev, Russia, I am a dedicated machine learning engineer with a strong proficiency in Python and I'm good at ML, C++, Linux, Git, SQL and API. I'm interested in anything related to Artificial Intelligence, I strive to continuously expand my knowledge and skills in the field
 
 ### Languages and Tools:
 
